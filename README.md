@@ -9,6 +9,8 @@ Who needs Mint? TrackingBudgets is an online/offline finance tracker to keep on 
 
 Type the following into your terminal or command line to copy this repository: `git clone git@github.com:twohunters/TrackingBudgets.git`
 
+Run `npm install` to install the necessary dependencies, and `npm start` to start the application locally.
+
 Visit the deployed project on Heroku [here](https://morning-forest-27808.herokuapp.com/).
 
 
