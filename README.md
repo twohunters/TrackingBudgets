@@ -11,7 +11,7 @@ Type the following into your terminal or command line to copy this repository: `
 
 Run `npm install` to install the necessary dependencies, and `npm start` to start the application locally.
 
-Visit the deployed project on Heroku [here](https://morning-forest-27808.herokuapp.com/) and see a screenshot [here](./assets/deployed.png).
+Visit the deployed project on Heroku [here](https://morning-forest-27808.herokuapp.com/) and see a screenshot [here](./public/assets/deployed.png).
 
 
 ## Credits
